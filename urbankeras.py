@@ -17,7 +17,7 @@ parent = 'ttdl/'
 # /home/galloj/anaconda3/envs/aiml/bin/python -->  /home/galloj/Documents/aiml/Data/UrbanSound8K/metadata/UrbanSound8K.csv
 # They have /home/galloj/ in common
 # ../../../../ is for going back thru /envs/aiml/bin/python/ and reaching the common directory
-data = pd.read_csv('../../../../Documents/aiml/Data/UrbanSound8K/metadata/UrbanSound8K.csv')
+data = pd.read_csv('/home/jose/Programming/aiml/Data/UrbanSound8K/metadata/UrbanSound8K.csv')
 
 
 # Function for checking if the train and test CSV files exists
