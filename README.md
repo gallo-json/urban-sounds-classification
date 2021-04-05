@@ -29,11 +29,9 @@ Test accuracy: 70%
 
 Validation accurarcy: 90%
 
-The model is 
-
 ## Reflection
 
-See my [reflection](docs/Reflection.md) on this project.
+As seen in the above results, the model is clearly overfitting. See more in my [reflection](docs/Reflection.md) on this project.
 
 ## Useful Links
 
